@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "username":"admin",
+        "password":"admin",
+        "role":"ADMIN"
+    },
+    {
+        "id": 2,
+        "username":"user",
+        "password":"user",
+        "role":"STUDENT"
+    },
+    {
+        "id": 3,
+        "username":"scolarite",
+        "password":"scolarite",
+        "role":"SCOLARITE"
+    }
+]
